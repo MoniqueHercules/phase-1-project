@@ -77,7 +77,7 @@ Here is an example of how to embed images from your sub-folder:
 ![mostprofitablemovies](./images/mostprofitablemovies.jpeg)
 ![BudgetVsProfit](./images/BudgetVsProfit.jpeg)
 ![topstudios](./images/topstudios.jpeg)
-![AscendingGenresVsProfitwithInflation](./images/Ascending Genres Vs Profit with Inflation.jpeg)
+![AscendingGenresVsProfitwithInflation](./images/Ascending_Genres_Vs_Profit_with_Inflation.jpeg)
 
 ## Conclusions
 
