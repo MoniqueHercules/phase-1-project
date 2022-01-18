@@ -74,10 +74,10 @@ Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
 
-![mostprofitablemovies](./images/mostprofitablemovies.png)
-![BudgetVsProfit](./images/BudgetVsProfit.png)
-![topstudios](./images/topstudios.png)
-![AscendingGenresVsProfitwithInflation](./images/Ascending Genres Vs Profit with Inflation.png)
+![mostprofitablemovies](./images/mostprofitablemovies.jpeg)
+![BudgetVsProfit](./images/BudgetVsProfit.jpeg)
+![topstudios](./images/topstudios.jpeg)
+![AscendingGenresVsProfitwithInflation](./images/Ascending Genres Vs Profit with Inflation.jpeg)
 
 ## Conclusions
 
@@ -102,7 +102,7 @@ Attributes to consider for further analysis:
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](./dsc-phase1-project.ipynb) or my [presentation](./DS_Project_Presentation.pdf).
+Please review my full analysis in [my Jupyter Notebook](./dsc-phase1-project.ipynb) or my [presentation](./A_New_Movie_Studio.pdf).
 
 For any additional questions, please contact **name & email, name & email**
 
@@ -112,10 +112,10 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── images                              <- Both sourced externally and generated from code
-├── git ignore                         <- The git ignore Irrelevant for reviewers of this project
+├── git ignore                          <- The git ignore Irrelevant for reviewers of this project
 ├── data                                <- Both sourced externally and generated from code
-├── dsc-phase1-project.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── dsc-phase1-project.ipynb            <- Narrative documentation of analysis in Jupyter notebook
 ├── README.md                           <- The top-level README for reviewers of this project
-└── DS_Project_Presentation.pdf         <- PDF version of project presentation
+└── A_New_Movie_Studio.pdf              <- PDF version of project presentation
 
 ```
