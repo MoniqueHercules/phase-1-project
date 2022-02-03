@@ -6,21 +6,22 @@
 
 ## Overview
 
-An analysis of the movie industry to gain insight on what it takes to not just make a movie, but a movie that stands the weight of time. From the insights gathered we will be able to create a template to create a successful new movie studio.
+An analysis of the movie industry to gain insight on what it takes to not just make a movie, but a movie that stands the weight of time for Microsofts new movie studio. From the insights gathered we will be able to create a template to create a successful new movie studio that will give Microsoft an inside look at current movie trends and industry standards.
 
-The new studio can use this information to predict the best production budget, genre and studio best practices needed make a successful movie studio.
+The new studio can use this information to predict the best production budget, genre and studio best practices needed make a successful movie studio for Microsoft. 
 
 That datasets used will be from notable movie databases like IMBD and The Numbers along with a few others.
 
 ## Business Problem
 
-The creation of a new movie studio is a daunting task but with the data analysis from notable movie databases we will be able to gain some insights that answer a few questions.
+The creation of a new movie studio for Microsoft is a daunting task but with the data analysis from notable movie databases we will be able to gain some insights that answer a few questions that will assist Microsoft in its expansion. 
 
-First question, What's the most profitable movies with inflation accounted for in comparison to production budget? We can determine the first few movies we need to make to be profitable immediately, while building rapport in the movie studio industry.
+First Question, what's the most profitable movies with inflation accounted for in comparison to production budget? We can determine the first few movies we need to make to be profitable immediately, while building Microsoft's rapport in the movie studio industry. 
 
-Second question, what studios produced the most profit? By figuring out the studios that produced the most profit we will be able to gleam best practices that can be modeled in production and film development.
+Second question, what studios produced the most profit? By figuring out the studios that produced the most profit we will be able to gleam best practices that can be modeled in production and film development in Microsoft's new studio.
 
-Third question, what genres on average produce the highest profit? This will give a direction to focus initial efforts upon, it will be best to start off producing movies in genres people already are fond of while avoiding high stake genres topics.
+Third question ,what genres on average produce the highest profit? This will give Microsoft a direction to focus initial efforts upon, it will be best to start off producing movies in genres people already are fond of while avoiding high stake genres topics. 
+
 
 
 ## Data
@@ -62,7 +63,7 @@ Of the most_profitable_movies, there is a median profit margin of 60%. The budge
 
 What studios produced the most profit? 
 
-Warner Brothers New Line Cinema, Disney Buena Vista, and Dreamworks taking the lead as the most profitable movie studio taking in account inflation and production costs.
+Disney Buena Vista, Warner Brothers and Fox taking the lead as the most profitable movie studio taking in account inflation and production costs.
 
 **Question 3 
 
@@ -75,24 +76,23 @@ Here is an example of how to embed images from your sub-folder:
 ### Visual 1
 
 ![mostprofitablemovies](./images/mostprofitablemovies.jpeg)
-![BudgetVsProfit](./images/BudgetVsProfit.jpeg)
 ![topstudios](./images/topstudios.jpeg)
 ![AscendingGenresVsProfitwithInflation](./images/Ascending_Genres_Vs_Profit_with_Inflation.jpeg)
 
 ## Conclusions
 
-After doing the analysis, the three recommendations for the creation of a new movie studio:
+After doing the analysis, the three recommendations for Microsofts creation of the new movie studio:
 
 * **Aim for a movie budget around 300 million to be on average with making a profit margin over 60%.**
 
-* **Base best practices for the creation of the studio on the most profitable studios of  Warner Bros New line Cinema, Dreamworks, and Disney Buena Vista.** Especially Fox, they were able to use less than 200 million to produce profit over 800 million. Allowing them to compete with Paramount, Warner Bros and Sony who used almost twice the budget for similar results. 
+* **Base best practices for the creation of the studio on the most profitable studios of  Disney Buena Vista, Warner Brothers,and Fox.**
 
 * **Animation, Western, and Sci-Fi are the most profitable genres with similar margin of error. Making each of these movie genre the most desirable genres to invest into.** 
 Musicals and Sports have the highest margin of error, which make it a tough movie genre to have a predictable profit range.While drama has the lowest error of margin and average profit with inflation of almost 100 million.Making it a conservative movie genre for a new studio to make.
 
 **Next Steps 
 
-Attributes to consider for further analysis: 
+Attributes for Microsoft to consider for further analysis: 
 
 * **The most profitable movies are Avengers: Infinity War, Jurassic World and Furious 7**. Considering that all of these movies are part of a  larger movie universe that have been produced over a set amount of time with a dedicated fan base. We can be left to assume that a lot of the profit margin is from an already dedicated fan base. By starting off with a movie that has a universe where we can create a dedicated fan base that spans an entire universe large enough to grow a large diverse character set.
 
@@ -104,7 +104,7 @@ Attributes to consider for further analysis:
 
 Please review my full analysis in [my Jupyter Notebook](./dsc-phase1-project.ipynb) or my [presentation](./A_New_Movie_Studio.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Monique Hercules Email: moniquehercules101@gmail.com**
 
 ## Repository Structure
 
