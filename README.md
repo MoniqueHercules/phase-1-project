@@ -102,7 +102,7 @@ Attributes for Microsoft to consider for further analysis:
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](./dsc-phase1-project.ipynb) or my [presentation](./A_New_Movie_studio.pdf).
+Please review my full analysis in [my Jupyter Notebook](./dsc-phase1-project.ipynb) or my [presentation](./presentation.pdf).
 
 For any additional questions, please contact **Monique Hercules Email: moniquehercules101@gmail.com**
 
